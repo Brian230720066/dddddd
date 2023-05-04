@@ -1,0 +1,24 @@
+.titulo{
+    display: flex;
+    justify-content: center;
+}
+
+.cab{
+    background-color: black;
+    color: aliceblue;
+}
+
+.sobre{
+    display: flex;
+    justify-content: right;
+}
+
+.compartilhar{
+    display: flex;
+    justify-content: right;
+}
+
+.feedback{
+    display: flex;
+    justify-content: right;
+}
