@@ -1,0 +1,58 @@
+.titulo{
+    display: flex;
+    justify-content: center;
+}
+.cab{
+    background-color: black;
+    color: aliceblue;
+}
+.sobre{
+    display: flex;
+    justify-content: right;
+}
+.compartilhar{
+    display: flex;
+    justify-content: right;
+}
+.feedback{
+    display: flex;
+    justify-content: right;
+}
+.img1{
+    width:25%;
+    justify-content: center;
+}
+.img2{
+    width:25%;
+    justify-content: center;
+}
+.img3{
+    width:25%;
+    justify-content: center;
+}
+.img4{
+    width:23%;
+    justify-content:center;
+}
+.img5{
+    width:23%;
+}
+.img6{
+    width:23%;
+}
+.img7{
+    width:20%;
+}
+.img8{
+    width:17%;
+}
+
+
+
+
+
+
+
+
+
+
